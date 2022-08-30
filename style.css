@@ -11507,3 +11507,9 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.bordalegal{
+  border-radius: 50%;
+  border: 1px solid #333;
+  padding:5px;
+}
